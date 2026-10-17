@@ -1,0 +1,11 @@
+day,marketplace,channel,sku,product,units,sales,cogs,shipping,fees,currency
+2026-03-01,Amazon.de,FBM,SKU-001,Demo Product One,10,300.00,-100.00,-50.00,-45.00,EUR
+2026-03-01,Amazon.de,FBA,SKU-001,Demo Product One,20,600.00,-200.00,0.00,-160.00,EUR
+2026-03-01,Amazon.fr,FBM,SKU-002,Demo Product Two,5,100.00,-40.00,0.00,-15.00,EUR
+2026-03-01,Amazon.it,FBM,SKU-003,Demo Product Three,4,80.00,0.00,-20.00,-12.00,EUR
+2026-03-02,Amazon.de,FBM,SKU-002,Demo Product Two,8,160.00,-64.00,-40.00,-24.00,EUR
+2026-03-02,Amazon.es,FBM,SKU-004,Demo Product Four,2,60.00,-20.00,-2.00,-9.00,EUR
+2026-03-02,Amazon.de,FBM,SKU-005,Demo Product Five,1,50.00,-15.00,-6.00,-7.50,EUR
+2026-03-02,Amazon.com,FBM,SKU-101,Demo Product Six,10,500.00,-200.00,-10.00,-75.00,USD
+2026-03-02,Amazon.com,FBA,SKU-101,Demo Product Six,30,1500.00,-600.00,0.00,-300.00,USD
+2026-03-02,Non-Amazon,FBM,SKU-102,Demo Product Seven,3,90.00,-30.00,-15.00,0.00,USD
